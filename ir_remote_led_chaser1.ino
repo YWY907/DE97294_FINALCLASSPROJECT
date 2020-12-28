@@ -32,6 +32,7 @@ void SetUpPins() {
   pinMode(6, OUTPUT);
   pinMode(7, OUTPUT);
   pinMode(8, OUTPUT);
+  pinMode(9, OUTPUT);
 
   
   digitalWrite(2, LOW);
@@ -41,6 +42,7 @@ void SetUpPins() {
   digitalWrite(6, LOW);
   digitalWrite(7, LOW);
   digitalWrite(8, LOW);
+  digitalWrite(9, LOW);
 
 
 }
